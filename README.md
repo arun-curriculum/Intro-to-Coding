@@ -173,6 +173,15 @@ div {
 - These are hard to write via raw CSS, so generators are often used.
 - Let's have a look at one [here](http://www.colorzilla.com/gradient-editor/).
 
+## Layout with HTML and CSS
+
+- Laying out elements on the page usually leverages HTML and CSS together to create variants of a 12-column grid.
+- The overall layout is created by mixing and matching rows with variable width columns.
+- To achieve more advanced layouts, rows and columns can also be nested.
+- We will try a simple example using the `float` property.
+
+![12-Column Grid](img/grid.jpg)
+
 ## Extra: Deployment
 
 - To deploy your website you will need a server that can accept HTTP requests, and send back your HTML, CSS, and JavaScript.
