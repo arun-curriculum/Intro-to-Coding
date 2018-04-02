@@ -1,4 +1,4 @@
-# Frontend Overview
+# Introduction to Coding
 
 ## Warmup Activity
 
@@ -10,6 +10,8 @@
 
 - What is back end vs front end code? Where do they run?
 - What is an HTTP request, and what is the expected response?
+
+![Request-Response Cycle](img/request_response.png)
 
 ## Introduction to HTML and CSS
 
@@ -182,6 +184,14 @@ div {
 
 ![12-Column Grid](img/grid.jpg)
 
+## Extra: HTML Markup Lab
+
+- [Please refer to the project here](https://github.com/arun-projects/HTML-Form)
+
+## Extra: About Me Lab
+
+- [Please refer to the project here](https://github.com/arun-projects/about_me)
+
 ## Extra: Deployment
 
 - To deploy your website you will need a server that can accept HTTP requests, and send back your HTML, CSS, and JavaScript.
@@ -191,12 +201,3 @@ div {
     - [Digital Ocean](https://www.digitalocean.com)
     - [Heroku](https://www.heroku.com)
     - [BitBalloon](https://www.bitballoon.com)
-- We will be using BitBalloon to deploy our site.
-
-## Extra: HTML Markup Lab
-
-- [Please refer to the project here](https://github.com/arun-projects/HTML-Form)
-
-## Extra: About Me Lab
-
-- [Please refer to the project here](https://github.com/arun-projects/about_me)
